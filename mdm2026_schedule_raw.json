@@ -1,0 +1,331 @@
+{
+  "event": "Modern Day Marine 2026",
+  "dates": "April 28–30, 2026",
+  "venue": "Walter E. Washington Convention Center, Washington, D.C.",
+  "data_provenance": "NOTE: marinemilitaryexpos.com/pme-sessions/ and /session-speakers/ both returned HTTP 403 from all clients available in this environment (Playwright Chromium, curl, WebFetch) because the Anthropic sandbox TLS proxy blocks the host. All session/speaker data below is reconstructed from Google search index snippets, DVIDS video/image caption metadata, and defense-news article coverage. Times marked (inferred) are best estimates from stage block start times on the schedule.",
+  "sessions": [
+    {
+      "day": "April 28",
+      "start_time": "9:00 AM",
+      "end_time": "9:20 AM",
+      "stage": "Main Briefing Center",
+      "title": "Opening Ceremony",
+      "speakers": [],
+      "notes": "Senior leaders, partners, and Fleet attendees officially open the exposition.",
+      "sources": [
+        "https://marinemilitaryexpos.com/show-schedule-info/ (Google index snippet)",
+        "https://marinemilitaryexpos.com/ (Google index snippet)"
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "9:00 AM",
+      "end_time": "9:20 AM",
+      "stage": "Main Briefing Center",
+      "title": "Acting Secretary of the Navy Address",
+      "speakers": [
+        "Hung Cao"
+      ],
+      "notes": "Acting SecNav gave a speech and answered questions. Date/stage confirmed via DVIDS.",
+      "sources": [
+        "https://www.dvidshub.net/video/1004364/modern-day-marine-2026-acting-secretary-navy-address"
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "9:15 AM",
+      "end_time": "",
+      "stage": "Main Briefing Center",
+      "title": "Everyone Fights: A Senior Enlisted Perspective on Preparing Marines for the Next 250 Years",
+      "speakers": [
+        "Carlos A. Ruiz",
+        "Jacob M. Reiff",
+        "Ryan A. Gnecco",
+        "Daniel L. Krause"
+      ],
+      "notes": "Panel of four Sergeants Major. Ruiz = 20th Sergeant Major of the Marine Corps; Reiff = Sergeant Major, Manpower and Reserve Affairs; Gnecco = Sergeant Major, II MEF; Krause = Senior Enlisted Advisor to the Sergeant Major of the Marine Corps. Date confirmed via DVIDS.",
+      "sources": [
+        "https://www.dvidshub.net/video/1004375/modern-day-marine-2026-everyone-fights-senior-enlisted-perspective-preparing-marines-next-250-years"
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "9:00 AM",
+      "end_time": "4:00 PM",
+      "stage": "Drone Zone",
+      "title": "Drone Zone Demonstrations",
+      "speakers": [],
+      "notes": "Autonomous and remotely operated systems tested and displayed in real-time environments.",
+      "sources": [
+        "https://marinemilitaryexpos.com/show-schedule-info/ (Google index snippet)"
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "8:30 AM",
+      "end_time": "4:00 PM",
+      "stage": "GCE UAS/C-UAS Symposium",
+      "title": "GCE UAS/C-UAS Symposium",
+      "speakers": [],
+      "notes": "Drives rapid information exchange between HQMC, FMF operators, and industry on UAS and C-UAS friction, current programs, and operator-to-developer partnerships.",
+      "sources": [
+        "https://marinemilitaryexpos.com/show-schedule-info/ (Google index snippet)"
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "9:30 AM",
+      "end_time": "4:00 PM",
+      "stage": "OBJ 1 Wargaming",
+      "title": "OBJ 1 Wargaming Sessions",
+      "speakers": [],
+      "notes": "Interactive computer-based and tabletop wargaming exploring operational scenarios, tactics, and strategic concepts.",
+      "sources": [
+        "https://marinemilitaryexpos.com/show-schedule-info/ (Google index snippet)"
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "9:15 AM",
+      "end_time": "",
+      "stage": "Main Briefing Center",
+      "title": "Aviation Modernization Panel",
+      "speakers": [
+        "Richard Rusnok",
+        "Robert Finneran"
+      ],
+      "notes": "Rusnok = Cunningham Group Branch Head, Deputy Commandant for Aviation; Finneran = Assistant Deputy Commandant for Aviation. Date confirmed via DVIDS captions. Stage inferred (likely Main Briefing or Acquisitions).",
+      "sources": [
+        "https://www.dvidshub.net/image/9649009/modern-day-marine-2026 (DVIDS caption)",
+        "https://defensescoop.com/2026/05/01/marine-corps-charts-path-for-future-aviation-ops-led-by-drones/"
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "9:45 AM",
+      "end_time": "",
+      "stage": "Acquisitions Stage",
+      "title": "Acquisition Logistics Briefing",
+      "speakers": [
+        "Robert Cross"
+      ],
+      "notes": "Cross = Deputy Commander for Systems Engineering and Acquisition Logistics, Marine Corps Systems Command. Date confirmed via DVIDS. Stage inferred.",
+      "sources": [
+        "https://www.dvidshub.net/image/9649009/modern-day-marine-2026 (DVIDS caption)"
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "9:15 AM",
+      "end_time": "",
+      "stage": "GCE UAS/C-UAS Symposium",
+      "title": "Counter-UAS / Ground Based Air Defense Briefing",
+      "speakers": [
+        "Andrew Konicki"
+      ],
+      "notes": "Konicki = Program Manager for Ground Based Air Defense, Portfolio Acquisition Executive–Marine Corps. Stage inferred (likely GCE UAS/C-UAS Symposium or Acquisitions Stage).",
+      "sources": [
+        "https://www.dvidshub.net/image/9649009/modern-day-marine-2026 (DVIDS caption)"
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "9:35 AM",
+      "end_time": "",
+      "stage": "Marine Zone Stage",
+      "title": "Marine Zone Sessions – Day 2",
+      "speakers": [],
+      "notes": "Expert discussions on training, education, manpower, talent management, and community services.",
+      "sources": [
+        "https://marinemilitaryexpos.com/show-schedule-info/ (Google index snippet)"
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "9:25 AM",
+      "end_time": "",
+      "stage": "Warfighting Stage",
+      "title": "Warfighting Pavilion Sessions – Day 2",
+      "speakers": [],
+      "notes": "Force design, experimentation, and capabilities integration discussions.",
+      "sources": [
+        "https://marinemilitaryexpos.com/show-schedule-info/ (Google index snippet)"
+      ]
+    },
+    {
+      "day": "April 30",
+      "start_time": "9:15 AM",
+      "end_time": "",
+      "stage": "Main Briefing Center",
+      "title": "State of the United States Marine Corps",
+      "speakers": [
+        "Daryl L. Caudle",
+        "Eric E. Austin",
+        "David C. Walsh",
+        "Tamara L. Campbell",
+        "Steven Bowdren",
+        "Joshua Nasca",
+        "Jason L. Morris"
+      ],
+      "notes": "Caudle = Adm., Chief of Naval Operations; Austin = Lt. Gen., CG Marine Corps Combat Development Command / DC CD&I; Walsh = Maj. Gen., Deputy Director PAE-MC; Campbell = Brig. Gen., Commander MCSC; Bowdren = SES, Executive Deputy Director PAE-MC; Nasca = Col., Director Operations Analysis Directorate CD&I; Morris = Director of Operations, Plans, Policies and Operations. Date confirmed via DVIDS.",
+      "sources": [
+        "https://www.dvidshub.net/video/1004726/modern-day-marine-2026-state-united-states-marine-corps"
+      ]
+    },
+    {
+      "day": "April 30",
+      "start_time": "9:15 AM",
+      "end_time": "",
+      "stage": "Ground Systems Enterprise Summit",
+      "title": "Ground Systems Enterprise Senior Leader Summit",
+      "speakers": [],
+      "notes": "Two-day summit bringing Service leaders face-to-face with Fleet Marines and industry innovators around development and procurement of ground combat systems. Exact start/end and individual speakers not confirmed in available public records.",
+      "sources": [
+        "https://marinemilitaryexpos.com/show-schedule-info/ (Google index snippet)"
+      ]
+    },
+    {
+      "day": "April 30",
+      "start_time": "1:00 PM",
+      "end_time": "5:00 PM",
+      "stage": "Logistics Command AI Forum",
+      "title": "Logistics Command Artificial Intelligence Forum",
+      "speakers": [],
+      "notes": "MARCORLOGCOM hosts forum bringing together leaders from DoW, industry, and academia to exchange advanced analytic concepts with military application. Individual speakers not confirmed in available public records.",
+      "sources": [
+        "https://marinemilitaryexpos.com/show-schedule-info/ (Google index snippet)",
+        "https://www.marines.mil/News/Messages/Messages-Display/Article/4444902/modern-day-marine-2026-artificial-intelligence-forum-hackathon/"
+      ]
+    },
+    {
+      "day": "April 30",
+      "start_time": "9:25 AM",
+      "end_time": "",
+      "stage": "Warfighting Stage",
+      "title": "Warfighting Pavilion Sessions – Day 3",
+      "speakers": [],
+      "notes": "Force design, experimentation, and capabilities integration discussions.",
+      "sources": [
+        "https://marinemilitaryexpos.com/show-schedule-info/ (Google index snippet)"
+      ]
+    },
+    {
+      "day": "April 30",
+      "start_time": "3:30 PM",
+      "end_time": "",
+      "stage": "Main Briefing Center",
+      "title": "Closing Ceremony",
+      "speakers": [
+        "Matthew Tracy"
+      ],
+      "notes": "Tracy = President, Marine Corps University. Conducted closing ceremony. Date confirmed via DVIDS.",
+      "sources": [
+        "https://www.dvidshub.net/video/1004743/modern-day-marine-2026-closing-ceremony"
+      ]
+    }
+  ],
+  "speakers_meta": {
+    "Hung Cao": {
+      "name": "Hung Cao",
+      "role": "Acting Secretary of the Navy",
+      "organization": "Department of the Navy",
+      "bio": "Acting Secretary of the Navy, gave keynote address at MDM 2026 Opening on April 28."
+    },
+    "Carlos A. Ruiz": {
+      "name": "Carlos A. Ruiz",
+      "role": "20th Sergeant Major of the Marine Corps",
+      "organization": "HQMC",
+      "bio": ""
+    },
+    "Jacob M. Reiff": {
+      "name": "Jacob M. Reiff",
+      "role": "Sergeant Major, Manpower and Reserve Affairs",
+      "organization": "HQMC",
+      "bio": ""
+    },
+    "Ryan A. Gnecco": {
+      "name": "Ryan A. Gnecco",
+      "role": "Sergeant Major, II Marine Expeditionary Force",
+      "organization": "II MEF",
+      "bio": ""
+    },
+    "Daniel L. Krause": {
+      "name": "Daniel L. Krause",
+      "role": "Senior Enlisted Advisor to the Sergeant Major of the Marine Corps",
+      "organization": "HQMC",
+      "bio": ""
+    },
+    "Richard Rusnok": {
+      "name": "Richard Rusnok",
+      "role": "Cunningham Group Branch Head, Deputy Commandant for Aviation",
+      "organization": "HQMC Aviation",
+      "bio": ""
+    },
+    "Robert Finneran": {
+      "name": "Robert Finneran",
+      "role": "Assistant Deputy Commandant for Aviation",
+      "organization": "HQMC Aviation",
+      "bio": ""
+    },
+    "Robert Cross": {
+      "name": "Robert Cross",
+      "role": "Deputy Commander for Systems Engineering and Acquisition Logistics",
+      "organization": "Marine Corps Systems Command (MCSC)",
+      "bio": ""
+    },
+    "Andrew Konicki": {
+      "name": "Andrew Konicki",
+      "role": "Program Manager for Ground Based Air Defense",
+      "organization": "Portfolio Acquisition Executive–Marine Corps (PAE-MC)",
+      "bio": ""
+    },
+    "Daryl L. Caudle": {
+      "name": "Daryl L. Caudle",
+      "role": "Chief of Naval Operations",
+      "organization": "U.S. Navy",
+      "bio": ""
+    },
+    "Eric E. Austin": {
+      "name": "Eric E. Austin",
+      "role": "Commanding General, Marine Corps Combat Development Command; Deputy Commandant, Combat Development & Integration",
+      "organization": "MCCDC / CD&I",
+      "bio": ""
+    },
+    "David C. Walsh": {
+      "name": "David C. Walsh",
+      "role": "Deputy Director, Portfolio Acquisition Executive – Marine Corps",
+      "organization": "PAE-MC",
+      "bio": ""
+    },
+    "Tamara L. Campbell": {
+      "name": "Tamara L. Campbell",
+      "role": "Commander, Marine Corps Systems Command",
+      "organization": "MCSC",
+      "bio": ""
+    },
+    "Steven Bowdren": {
+      "name": "Steven Bowdren",
+      "role": "Executive Deputy Director, Portfolio Acquisition Executive – Marine Corps",
+      "organization": "PAE-MC",
+      "bio": ""
+    },
+    "Joshua Nasca": {
+      "name": "Joshua Nasca",
+      "role": "Director, Operations Analysis Directorate, Combat Development and Integration",
+      "organization": "CD&I",
+      "bio": ""
+    },
+    "Jason L. Morris": {
+      "name": "Jason L. Morris",
+      "role": "Director of Operations, Plans, Policies and Operations",
+      "organization": "HQMC",
+      "bio": ""
+    },
+    "Matthew Tracy": {
+      "name": "Matthew Tracy",
+      "role": "President, Marine Corps University",
+      "organization": "Marine Corps University",
+      "bio": ""
+    }
+  }
+}
