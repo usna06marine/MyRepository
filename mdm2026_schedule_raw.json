@@ -2,330 +2,1676 @@
   "event": "Modern Day Marine 2026",
   "dates": "April 28–30, 2026",
   "venue": "Walter E. Washington Convention Center, Washington, D.C.",
-  "data_provenance": "NOTE: marinemilitaryexpos.com/pme-sessions/ and /session-speakers/ both returned HTTP 403 from all clients available in this environment (Playwright Chromium, curl, WebFetch) because the Anthropic sandbox TLS proxy blocks the host. All session/speaker data below is reconstructed from Google search index snippets, DVIDS video/image caption metadata, and defense-news article coverage. Times marked (inferred) are best estimates from stage block start times on the schedule.",
+  "data_provenance": "All sessions (April 28–30) are exact — sourced directly from the official marinemilitaryexpos.com/pme-sessions/ schedule (user-supplied paste).",
   "sessions": [
     {
       "day": "April 28",
-      "start_time": "9:00 AM",
-      "end_time": "9:20 AM",
+      "start_time": "09:00 AM",
+      "end_time": "03:00 PM",
+      "stage": "Conference Rooms (TBD)",
+      "track": "Special Events",
+      "format": "",
+      "title": "GCE UAS/C-UAS Symposium",
+      "speakers": []
+    },
+    {
+      "day": "April 28",
+      "start_time": "09:00 AM",
+      "end_time": "03:00 PM",
+      "stage": "101 & 102 A",
+      "track": "Special Events",
+      "format": "",
+      "title": "Logistics Command Artificial Intelligence Symposium",
+      "speakers": []
+    },
+    {
+      "day": "April 28",
+      "start_time": "09:00 AM",
+      "end_time": "09:20 AM",
       "stage": "Main Briefing Center",
+      "track": "Special Events",
+      "format": "Session",
       "title": "Opening Ceremony",
-      "speakers": [],
-      "notes": "Senior leaders, partners, and Fleet attendees officially open the exposition.",
-      "sources": [
-        "https://marinemilitaryexpos.com/show-schedule-info/ (Google index snippet)",
-        "https://marinemilitaryexpos.com/ (Google index snippet)"
-      ]
+      "speakers": []
     },
     {
       "day": "April 28",
-      "start_time": "9:00 AM",
-      "end_time": "9:20 AM",
-      "stage": "Main Briefing Center",
-      "title": "Acting Secretary of the Navy Address",
-      "speakers": [
-        "Hung Cao"
-      ],
-      "notes": "Acting SecNav gave a speech and answered questions. Date/stage confirmed via DVIDS.",
-      "sources": [
-        "https://www.dvidshub.net/video/1004364/modern-day-marine-2026-acting-secretary-navy-address"
-      ]
+      "start_time": "04:00 PM",
+      "end_time": "04:45 PM",
+      "stage": "Warfighting Stage",
+      "track": "Special Events",
+      "format": "",
+      "title": "Warfighting Reception",
+      "speakers": []
     },
     {
       "day": "April 28",
-      "start_time": "9:15 AM",
-      "end_time": "",
+      "start_time": "09:30 AM",
+      "end_time": "10:30 AM",
       "stage": "Main Briefing Center",
+      "track": "Main Briefing Center",
+      "format": "Session",
       "title": "Everyone Fights: A Senior Enlisted Perspective on Preparing Marines for the Next 250 Years",
       "speakers": [
-        "Carlos A. Ruiz",
-        "Jacob M. Reiff",
-        "Ryan A. Gnecco",
-        "Daniel L. Krause"
-      ],
-      "notes": "Panel of four Sergeants Major. Ruiz = 20th Sergeant Major of the Marine Corps; Reiff = Sergeant Major, Manpower and Reserve Affairs; Gnecco = Sergeant Major, II MEF; Krause = Senior Enlisted Advisor to the Sergeant Major of the Marine Corps. Date confirmed via DVIDS.",
-      "sources": [
-        "https://www.dvidshub.net/video/1004375/modern-day-marine-2026-everyone-fights-senior-enlisted-perspective-preparing-marines-next-250-years"
+        {
+          "name": "Ryan Gnecco",
+          "rank": "SgtMaj",
+          "role": "Sergeant Major, Training and Education Command"
+        },
+        {
+          "name": "Daniel L. Krause",
+          "rank": "Sgt. Maj.",
+          "role": "Senior Enlisted Advisor to the Sergeant Major of the Marine Corps"
+        },
+        {
+          "name": "Anthony Loftus",
+          "rank": "SgtMaj",
+          "role": "Command Senior Enlisted Leader, II Marine Expeditionary Force"
+        },
+        {
+          "name": "Jacob Reiff",
+          "rank": "SgtMaj",
+          "role": "Sergeant Major, Manpower and Reserve Affairs"
+        },
+        {
+          "name": "Carlos Ruiz",
+          "rank": "SgtMaj",
+          "role": "Sergeant Major of the Marine Corps"
+        }
       ]
     },
     {
       "day": "April 28",
-      "start_time": "9:00 AM",
-      "end_time": "4:00 PM",
-      "stage": "Drone Zone",
-      "title": "Drone Zone Demonstrations",
-      "speakers": [],
-      "notes": "Autonomous and remotely operated systems tested and displayed in real-time environments.",
-      "sources": [
-        "https://marinemilitaryexpos.com/show-schedule-info/ (Google index snippet)"
-      ]
-    },
-    {
-      "day": "April 28",
-      "start_time": "8:30 AM",
-      "end_time": "4:00 PM",
-      "stage": "GCE UAS/C-UAS Symposium",
-      "title": "GCE UAS/C-UAS Symposium",
-      "speakers": [],
-      "notes": "Drives rapid information exchange between HQMC, FMF operators, and industry on UAS and C-UAS friction, current programs, and operator-to-developer partnerships.",
-      "sources": [
-        "https://marinemilitaryexpos.com/show-schedule-info/ (Google index snippet)"
-      ]
-    },
-    {
-      "day": "April 28",
-      "start_time": "9:30 AM",
-      "end_time": "4:00 PM",
-      "stage": "OBJ 1 Wargaming",
-      "title": "OBJ 1 Wargaming Sessions",
-      "speakers": [],
-      "notes": "Interactive computer-based and tabletop wargaming exploring operational scenarios, tactics, and strategic concepts.",
-      "sources": [
-        "https://marinemilitaryexpos.com/show-schedule-info/ (Google index snippet)"
-      ]
-    },
-    {
-      "day": "April 29",
-      "start_time": "9:15 AM",
-      "end_time": "",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
       "stage": "Main Briefing Center",
-      "title": "Aviation Modernization Panel",
+      "track": "Main Briefing Center",
+      "format": "Session",
+      "title": "Ground Combat Element 2040: Technological Dominance Through a Marine-Centric Approach",
       "speakers": [
-        "Richard Rusnok",
-        "Robert Finneran"
-      ],
-      "notes": "Rusnok = Cunningham Group Branch Head, Deputy Commandant for Aviation; Finneran = Assistant Deputy Commandant for Aviation. Date confirmed via DVIDS captions. Stage inferred (likely Main Briefing or Acquisitions).",
-      "sources": [
-        "https://www.dvidshub.net/image/9649009/modern-day-marine-2026 (DVIDS caption)",
-        "https://defensescoop.com/2026/05/01/marine-corps-charts-path-for-future-aviation-ops-led-by-drones/"
+        {
+          "name": "Erick Clark",
+          "rank": "Col",
+          "role": "Branch Head Future Operations, Plans, Policies, and Operations"
+        },
+        {
+          "name": "Kyle Ellison",
+          "rank": "MajGen",
+          "role": "Commanding General, 3D Marine Division"
+        },
+        {
+          "name": "John Jarrard",
+          "rank": "MajGen",
+          "role": "Commanding General, 4th Marine Division"
+        },
+        {
+          "name": "Jason Morris",
+          "rank": "MajGen",
+          "role": "Director of Operations, Plans Policies, and Operations, HQMC"
+        },
+        {
+          "name": "Farrell Sullivan",
+          "rank": "MajGen",
+          "role": "Commanding General, 2D Marine Division"
+        }
       ]
     },
     {
-      "day": "April 29",
-      "start_time": "9:45 AM",
-      "end_time": "",
+      "day": "April 28",
+      "start_time": "12:30 PM",
+      "end_time": "01:30 PM",
+      "stage": "Main Briefing Center",
+      "track": "Main Briefing Center",
+      "format": "Session",
+      "title": "Maritime Prepositioning for the 21st Century",
+      "speakers": [
+        {
+          "name": "Shon Brodie",
+          "rank": "Mr.",
+          "role": "Director, Maritime Expeditionary Warfare, HQMC CD&I"
+        },
+        {
+          "name": "Stephen Sklenka",
+          "rank": "LtGen",
+          "role": "Deputy Commandant, Installations and Logistics, DC I&L, HQMC"
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "02:00 PM",
+      "end_time": "03:00 PM",
+      "stage": "Main Briefing Center",
+      "track": "Main Briefing Center",
+      "format": "Session",
+      "title": "Preparing Marines for the All-Domain Fight through Training and Education",
+      "speakers": [
+        {
+          "name": "Michael Brooks",
+          "rank": "BGen",
+          "role": "Commanding General, Training Command"
+        },
+        {
+          "name": "Mark H. Clingan",
+          "rank": "MajGen",
+          "role": "Commanding General, MAGTF Training Command, Marine Corps Air Ground Combat Center"
+        },
+        {
+          "name": "Benjamin Watson",
+          "rank": "LtGen",
+          "role": "Commanding General, Training & Education Command"
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "03:10 PM",
+      "end_time": "04:10 PM",
+      "stage": "Main Briefing Center",
+      "track": "Main Briefing Center",
+      "format": "Session",
+      "title": "Acting Secretary of the Navy Address",
+      "speakers": [
+        {
+          "name": "Hung Cao",
+          "rank": "Honorable",
+          "role": "Acting Secretary of the Navy"
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "09:30 AM",
+      "end_time": "10:10 AM",
       "stage": "Acquisitions Stage",
-      "title": "Acquisition Logistics Briefing",
+      "track": "Acquisitions Stage",
+      "format": "Session",
+      "title": "General's Opening Remarks from PEO(A)",
       "speakers": [
-        "Robert Cross"
-      ],
-      "notes": "Cross = Deputy Commander for Systems Engineering and Acquisition Logistics, Marine Corps Systems Command. Date confirmed via DVIDS. Stage inferred.",
-      "sources": [
-        "https://www.dvidshub.net/image/9649009/modern-day-marine-2026 (DVIDS caption)"
+        {
+          "name": "David Walsh",
+          "rank": "MajGen",
+          "role": "Program Executive Officer Air, Anti-Submarine Warfare, Assault, and Special Mission Programs"
+        }
       ]
     },
     {
-      "day": "April 29",
-      "start_time": "9:15 AM",
-      "end_time": "",
-      "stage": "GCE UAS/C-UAS Symposium",
-      "title": "Counter-UAS / Ground Based Air Defense Briefing",
+      "day": "April 28",
+      "start_time": "10:15 AM",
+      "end_time": "10:55 AM",
+      "stage": "Acquisitions Stage",
+      "track": "Acquisitions Stage",
+      "format": "Session",
+      "title": "XMA-ADT Expeditionary Maritime Aviation Advanced Development Team",
       "speakers": [
-        "Andrew Konicki"
-      ],
-      "notes": "Konicki = Program Manager for Ground Based Air Defense, Portfolio Acquisition Executive–Marine Corps. Stage inferred (likely GCE UAS/C-UAS Symposium or Acquisitions Stage).",
-      "sources": [
-        "https://www.dvidshub.net/image/9649009/modern-day-marine-2026 (DVIDS caption)"
+        {
+          "name": "Scott Shadforth",
+          "rank": "Col",
+          "role": "Director, Expeditionary and Maritime Aviation - Advanced Development Team (XMA-ADT)"
+        }
       ]
     },
     {
-      "day": "April 29",
-      "start_time": "9:35 AM",
-      "end_time": "",
-      "stage": "Marine Zone Stage",
-      "title": "Marine Zone Sessions – Day 2",
-      "speakers": [],
-      "notes": "Expert discussions on training, education, manpower, talent management, and community services.",
-      "sources": [
-        "https://marinemilitaryexpos.com/show-schedule-info/ (Google index snippet)"
+      "day": "April 28",
+      "start_time": "11:00 AM",
+      "end_time": "11:40 AM",
+      "stage": "Acquisitions Stage",
+      "track": "Acquisitions Stage",
+      "format": "Session",
+      "title": "PM Ground Based Air Defense: USMC Approach to Fielding Counter-Air Capabilities",
+      "speakers": [
+        {
+          "name": "Andrew Konicki",
+          "rank": "Col",
+          "role": "Program Manager Ground Based Air Defense"
+        }
       ]
     },
     {
-      "day": "April 29",
-      "start_time": "9:25 AM",
-      "end_time": "",
+      "day": "April 28",
+      "start_time": "11:45 AM",
+      "end_time": "12:25 PM",
+      "stage": "Acquisitions Stage",
+      "track": "Acquisitions Stage",
+      "format": "Session",
+      "title": "PMA-263 Small Tactical Unmanned Air Systems Overview",
+      "speakers": [
+        {
+          "name": "Gregg Skinner",
+          "rank": "CIV",
+          "role": "Program Manager STUAS"
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "stage": "Acquisitions Stage",
+      "track": "Acquisitions Stage",
+      "format": "Session",
+      "title": "Transforming Training with Cutting-Edge Capabilities",
+      "speakers": [
+        {
+          "name": "David Bain",
+          "rank": "LtCol",
+          "role": "Deputy Program Manager, Training Systems"
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "01:05 PM",
+      "end_time": "01:35 PM",
+      "stage": "Acquisitions Stage",
+      "track": "Acquisitions Stage",
+      "format": "Session",
+      "title": "PMA-266 Multi-Mission Tactical Unmanned Air Systems Overview",
+      "speakers": [
+        {
+          "name": "Leigh Irwin",
+          "rank": "Col",
+          "role": "Program Manager, Multi-Mission Tactical Unmanned Aerial Systems (UAS)"
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "01:40 PM",
+      "end_time": "02:10 PM",
+      "stage": "Acquisitions Stage",
+      "track": "Industry",
+      "format": "Session",
+      "title": "Model-Based Systems Engineering: Accelerating system design through model-based methods",
+      "speakers": [
+        {
+          "name": "Adam Boas",
+          "rank": "",
+          "role": "Solutions Architect, KBR"
+        },
+        {
+          "name": "Grant Clyne",
+          "rank": "",
+          "role": "Senior Manager of Business Development, KBR"
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "02:15 PM",
+      "end_time": "02:55 PM",
+      "stage": "Acquisitions Stage",
+      "track": "Acquisitions Stage",
+      "format": "Session",
+      "title": "PEO Digital",
+      "speakers": [
+        {
+          "name": "Jonathan G. Metcalf",
+          "rank": "Maj",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "03:30 PM",
+      "end_time": "04:10 PM",
+      "stage": "Acquisitions Stage",
+      "track": "Acquisitions Stage",
+      "format": "Session",
+      "title": "PM Tactical Communications and Electromagnetic Warfare Systems: Communications Modularity on the Battlefield",
+      "speakers": [
+        {
+          "name": "John Mithun",
+          "rank": "CIV",
+          "role": "Program Manager, Tactical Communications and Electromagnetic Warfare Systems"
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "09:40 AM",
+      "end_time": "10:20 AM",
       "stage": "Warfighting Stage",
-      "title": "Warfighting Pavilion Sessions – Day 2",
-      "speakers": [],
-      "notes": "Force design, experimentation, and capabilities integration discussions.",
-      "sources": [
-        "https://marinemilitaryexpos.com/show-schedule-info/ (Google index snippet)"
+      "track": "Warfighting",
+      "format": "Session",
+      "title": "Capability Development and the New Joint Force Requirements Process",
+      "speakers": [
+        {
+          "name": "Joshua Freeland",
+          "rank": "LtCol",
+          "role": "MAGTF Planner, Marine Corps Integration Division"
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "10:50 AM",
+      "end_time": "11:20 AM",
+      "stage": "Warfighting Stage",
+      "track": "Industry",
+      "format": "Session",
+      "title": "From Perception to Coordination: Advancing Edge-Based Warfighting for Marine Corps Operations",
+      "speakers": [
+        {
+          "name": "Ed Sullivan",
+          "rank": "Col (ret.)",
+          "role": "USMC Principal, Business Development, TurbineOne, Inc."
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "12:00 PM",
+      "end_time": "12:40 PM",
+      "stage": "Warfighting Stage",
+      "track": "Warfighting",
+      "format": "Session",
+      "title": "PULSE Check: An AI-Enabled Commander's Survey Tool",
+      "speakers": [
+        {
+          "name": "Wilson Prescott",
+          "rank": "Col",
+          "role": "Chief of Staff, 4th Marine Logistics Group"
+        },
+        {
+          "name": "Samuel Sung",
+          "rank": "LtCol",
+          "role": "Innovation Officer, Logistics Innovation Unit, 4th Marine Logistics Group (USMCR)"
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "01:10 PM",
+      "end_time": "01:50 PM",
+      "stage": "Warfighting Stage",
+      "track": "Warfighting",
+      "format": "Session",
+      "title": "Counter UAS: From Installations Defense to Organic Protection for the Distributed Forces",
+      "speakers": [
+        {
+          "name": "Andrew Konicki",
+          "rank": "Col",
+          "role": "Program Manager Ground Based Air Defense"
+        },
+        {
+          "name": "Joseph Radich",
+          "rank": "Maj",
+          "role": "Installation Counter sUAS Officer, MCICOM"
+        },
+        {
+          "name": "Jeremy Stover",
+          "rank": "CWO5",
+          "role": "Marine Gunner, USMC"
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "02:20 PM",
+      "end_time": "03:00 PM",
+      "stage": "Warfighting Stage",
+      "track": "Warfighting",
+      "format": "Session",
+      "title": "Essentials in Prevailing against a Peer Adversary",
+      "speakers": [
+        {
+          "name": "Stephen Sklenka",
+          "rank": "LtGen",
+          "role": "Deputy Commandant, Installations and Logistics, DC I&L, HQMC"
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "09:50 AM",
+      "end_time": "10:30 AM",
+      "stage": "Marine Zone Stage",
+      "track": "Marine Zone",
+      "format": "Session",
+      "title": "Operationalizing Wounded Warrior Regiment (WWR), Scalability, Flexibility",
+      "speakers": [
+        {
+          "name": "Morina Foster",
+          "rank": "Col",
+          "role": "Commanding Officer, Wounded Warrior Regiment"
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "11:00 AM",
+      "end_time": "11:40 AM",
+      "stage": "Marine Zone Stage",
+      "track": "Marine Zone",
+      "format": "Session",
+      "title": "Analysis and Assessments Branch: Learning and Adapting at Speed",
+      "speakers": [
+        {
+          "name": "Brian Christmas",
+          "rank": "GS-15",
+          "role": "Branch Head, Analysis and Assessments Branch, Training & Education Command"
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "12:10 PM",
+      "end_time": "12:40 PM",
+      "stage": "Marine Zone Stage",
+      "track": "Marine Zone",
+      "format": "Session",
+      "title": "Buying at the Speed of War: Leveraging Commercial Technology to Gain the Advantage",
+      "speakers": [
+        {
+          "name": "Joshua Arvizu",
+          "rank": "Capt",
+          "role": "Student"
+        },
+        {
+          "name": "Jarrett Cavanagh",
+          "rank": "Capt",
+          "role": "Field Artillery Officer, Expeditionary Warfare School"
+        },
+        {
+          "name": "Eric Jones",
+          "rank": "Capt",
+          "role": "Student"
+        },
+        {
+          "name": "Spencer Miller",
+          "rank": "Capt",
+          "role": "Artillery Officer"
+        },
+        {
+          "name": "Riley White",
+          "rank": "Capt",
+          "role": "Student, Expeditionary Warfare School"
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "01:30 PM",
+      "end_time": "02:10 PM",
+      "stage": "Marine Zone Stage",
+      "track": "Marine Zone",
+      "format": "Session",
+      "title": "Resourcing the Expeditionary Fleet",
+      "speakers": [
+        {
+          "name": "S. Lee Meyer",
+          "rank": "BGen",
+          "role": "Director, Expeditionary Warfare"
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "02:30 PM",
+      "end_time": "03:10 PM",
+      "stage": "Marine Zone Stage",
+      "track": "Marine Zone",
+      "format": "Session",
+      "title": "Warrior Athlete Readiness & Resilience - A Marine Corps Total Fitness Approach",
+      "speakers": [
+        {
+          "name": "Brad Brimhall",
+          "rank": "GS-15",
+          "role": "Branch Head, Warrior Athlete Readiness & Resilience, M&RA, HQMC"
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "10:00 AM",
+      "end_time": "10:40 AM",
+      "stage": "Scuttlebutt Podcast",
+      "track": "Scuttlebutt Podcast",
+      "format": "Session",
+      "title": "The Reboot Project",
+      "speakers": [
+        {
+          "name": "Bryan Bush",
+          "rank": "",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "11:00 AM",
+      "end_time": "11:40 AM",
+      "stage": "Scuttlebutt Podcast",
+      "track": "Scuttlebutt Podcast",
+      "format": "Session",
+      "title": "3-1-5 Framework: The Essentials in Prevailing Against a Peer Adversary",
+      "speakers": [
+        {
+          "name": "Stephen Sklenka",
+          "rank": "LtGen",
+          "role": "Deputy Commandant, Installations and Logistics, DC I&L, HQMC"
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "12:30 PM",
+      "end_time": "01:10 PM",
+      "stage": "Scuttlebutt Podcast",
+      "track": "Scuttlebutt Podcast",
+      "format": "Session",
+      "title": "Autonomous Logistics: Resupplying the Future Fight",
+      "speakers": []
+    },
+    {
+      "day": "April 28",
+      "start_time": "01:30 PM",
+      "end_time": "02:10 PM",
+      "stage": "Scuttlebutt Podcast",
+      "track": "Scuttlebutt Podcast",
+      "format": "Session",
+      "title": "Character and Life Assimilation",
+      "speakers": [
+        {
+          "name": "Carey Cash",
+          "rank": "Chaplain",
+          "role": "Chaplain of the Marine Corps, HQMC REL"
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "02:30 PM",
+      "end_time": "03:10 PM",
+      "stage": "Scuttlebutt Podcast",
+      "track": "Scuttlebutt Podcast",
+      "format": "Session",
+      "title": "MCCS Connect: Modernization with Purpose",
+      "speakers": [
+        {
+          "name": "Andrew Barcomb",
+          "rank": "Mr.",
+          "role": "Senior Web Designer, MCCS"
+        },
+        {
+          "name": "Ralph Lewter",
+          "rank": "Mr.",
+          "role": "Branded Content Specialist, MCCS"
+        }
+      ]
+    },
+    {
+      "day": "April 28",
+      "start_time": "10:15 AM",
+      "end_time": "10:45 AM",
+      "stage": "Drone Stage",
+      "track": "Drone Stage",
+      "format": "Session",
+      "title": "Industry Drone Demo (PDW Attritable Multirotor)",
+      "speakers": []
+    },
+    {
+      "day": "April 28",
+      "start_time": "11:15 AM",
+      "end_time": "11:30 AM",
+      "stage": "Drone Stage",
+      "track": "Drone Stage",
+      "format": "Session",
+      "title": "Marine Corps Attack Drone Team Demo",
+      "speakers": []
+    },
+    {
+      "day": "April 28",
+      "start_time": "12:05 PM",
+      "end_time": "12:20 PM",
+      "stage": "Drone Stage",
+      "track": "Drone Stage",
+      "format": "Session",
+      "title": "Marine Corps Attack Drone Team Demo",
+      "speakers": []
+    },
+    {
+      "day": "April 28",
+      "start_time": "12:45 PM",
+      "end_time": "01:00 PM",
+      "stage": "Drone Stage",
+      "track": "Drone Stage",
+      "format": "Session",
+      "title": "Marine Corps Attack Drone Team Demo",
+      "speakers": []
+    },
+    {
+      "day": "April 28",
+      "start_time": "02:25 PM",
+      "end_time": "02:40 PM",
+      "stage": "Drone Stage",
+      "track": "Drone Stage",
+      "format": "Session",
+      "title": "Vector Dagger Demonstration",
+      "speakers": []
+    },
+    {
+      "day": "April 28",
+      "start_time": "03:00 PM",
+      "end_time": "03:15 PM",
+      "stage": "Drone Stage",
+      "track": "Drone Stage",
+      "format": "Session",
+      "title": "Marine Corps Attack Drone Team Demo",
+      "speakers": []
+    },
+    {
+      "day": "April 29",
+      "start_time": "09:00 AM",
+      "end_time": "10:30 AM",
+      "stage": "Marriott Marquis",
+      "track": "Special Events",
+      "format": "",
+      "title": "Congressional Breakfast",
+      "speakers": []
+    },
+    {
+      "day": "April 29",
+      "start_time": "09:00 AM",
+      "end_time": "03:00 PM",
+      "stage": "Conference Rooms (TBD)",
+      "track": "Special Events",
+      "format": "",
+      "title": "GCE UAS/C-UAS Symposium",
+      "speakers": []
+    },
+    {
+      "day": "April 29",
+      "start_time": "09:00 AM",
+      "end_time": "03:00 PM",
+      "stage": "101 & 102 A",
+      "track": "Special Events",
+      "format": "",
+      "title": "Logistics Command Artificial Intelligence Symposium",
+      "speakers": []
+    },
+    {
+      "day": "April 29",
+      "start_time": "01:00 PM",
+      "end_time": "04:00 PM",
+      "stage": "146A",
+      "track": "Special Events",
+      "format": "",
+      "title": "Contracts Industry Day",
+      "speakers": []
+    },
+    {
+      "day": "April 29",
+      "start_time": "06:30 PM",
+      "end_time": "09:30 PM",
+      "stage": "Marriott Marquis",
+      "track": "Special Events",
+      "format": "",
+      "title": "Modern Day Marine Honors & Reception",
+      "speakers": []
+    },
+    {
+      "day": "April 29",
+      "start_time": "09:15 AM",
+      "end_time": "10:15 AM",
+      "stage": "Main Briefing Center",
+      "track": "Main Briefing Center",
+      "format": "Session",
+      "title": "Transforming USMC Procurement: Leading with Agility and Impact",
+      "speakers": [
+        {
+          "name": "Daniel Corbin",
+          "rank": "SES Dr.",
+          "role": "Chief Technical Advisor, HQMC DCI-IC4"
+        },
+        {
+          "name": "Robert Cross",
+          "rank": "SES",
+          "role": "PAE-MC Chief Engineer, USMC"
+        },
+        {
+          "name": "Johany Deal",
+          "rank": "SES",
+          "role": "Assistant Deputy Commandant for I&L Contracts, HQMC I&L"
+        },
+        {
+          "name": "Anthony Greco Jr.",
+          "rank": "SES",
+          "role": "Executive Deputy, Training & Education Command, USMC"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "10:45 AM",
+      "end_time": "11:45 AM",
+      "stage": "Main Briefing Center",
+      "track": "Main Briefing Center",
+      "format": "Session",
+      "title": "3.0 Marine Expeditionary Unit American Sovereignty Afloat – Driving Maintenance and Inventory",
+      "speakers": [
+        {
+          "name": "Eric Austin",
+          "rank": "LtGen",
+          "role": "Deputy Commandant Combat Development and Integration, HQMC"
+        },
+        {
+          "name": "Jay Bargeron",
+          "rank": "LtGen",
+          "role": "Deputy Commandant Plans, Policies, and Operations, HQMC"
+        },
+        {
+          "name": "Shon Brodie",
+          "rank": "Mr.",
+          "role": "Director, Maritime Expeditionary Warfare, HQMC CD&I"
+        },
+        {
+          "name": "Bobbi Shea",
+          "rank": "LtGen",
+          "role": "Commanding General, Fleet Marine Force Atlantic; Commander, Marine Forces Command; Commander, Marine Forces Northern Command"
+        },
+        {
+          "name": "John Skillman",
+          "rank": "VADM",
+          "role": "Deputy Chief of Naval Operations for Integration of Capabilities and Resources (N8), OPNAV"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "12:00 PM",
+      "end_time": "01:00 PM",
+      "stage": "Main Briefing Center",
+      "track": "Main Briefing Center",
+      "format": "Session",
+      "title": "Next-Gen Combined Arms: Integrating Information Effects into Modern Operations",
+      "speakers": [
+        {
+          "name": "Mark A. Cunningham",
+          "rank": "MajGen",
+          "role": "USMC Director of Intelligence, HQMC"
+        },
+        {
+          "name": "Jeffery A. Hurley",
+          "rank": "Mr.",
+          "role": "Director of Command, Control, Communication, and Computers, HQMC"
+        },
+        {
+          "name": "Jay Matos",
+          "rank": "LtGen",
+          "role": "Deputy Commandant for Information, HQMC"
+        },
+        {
+          "name": "Christopher A. Passerella",
+          "rank": "Col",
+          "role": "Director, Information Maneuver Division, HQMC"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "01:05 PM",
+      "end_time": "02:05 PM",
+      "stage": "Main Briefing Center",
+      "track": "Main Briefing Center",
+      "format": "Session",
+      "title": "EDCOM: Leading the Revolution in Joint Education",
+      "speakers": [
+        {
+          "name": "Jessica R. Aich",
+          "rank": "Maj",
+          "role": "Course Director, Expeditionary Warfare School, MCU"
+        },
+        {
+          "name": "Robert Barnhart",
+          "rank": "Col",
+          "role": ""
+        },
+        {
+          "name": "John Lehane",
+          "rank": "Col",
+          "role": "Director of the Marine Corps Command and Staff College"
+        },
+        {
+          "name": "Matt Tracy",
+          "rank": "BGen",
+          "role": "Commanding General, Education Command and President"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "02:10 PM",
+      "end_time": "03:10 PM",
+      "stage": "Main Briefing Center",
+      "track": "Main Briefing Center",
+      "format": "Session",
+      "title": "The Unfair Advantage: Mobilizing Marine Corps Power",
+      "speakers": [
+        {
+          "name": "Leonard Anderson IV",
+          "rank": "LtGen",
+          "role": "Commander, Marine Forces Reserve / Marine Forces South"
+        },
+        {
+          "name": "Ryan Murata",
+          "rank": "Col",
+          "role": "Director, Office of Marine Corps Reserve"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "03:15 PM",
+      "end_time": "04:15 PM",
+      "stage": "Main Briefing Center",
+      "track": "Main Briefing Center",
+      "format": "Session",
+      "title": "Ready Today, Unmatched Tomorrow: The Future of Marine Aviation",
+      "speakers": [
+        {
+          "name": "Richard Rusnok",
+          "rank": "Col",
+          "role": "Cunningham Group Branch Head, Headquarters Marine Corps"
+        },
+        {
+          "name": "William Swan",
+          "rank": "LtGen",
+          "role": "Deputy Commandant for Aviation, Headquarters Marine Corps"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "10:15 AM",
+      "end_time": "10:55 AM",
+      "stage": "Acquisitions Stage",
+      "track": "Acquisitions Stage",
+      "format": "Session",
+      "title": "PM Ground Weapons Systems: Forging Marine Corps Lethality",
+      "speakers": [
+        {
+          "name": "Bradley Sams",
+          "rank": "Col",
+          "role": "Program Manager, Ground Weapons Systems"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "11:00 AM",
+      "end_time": "11:40 AM",
+      "stage": "Acquisitions Stage",
+      "track": "Acquisitions Stage",
+      "format": "Session",
+      "title": "PMA-261 Program Update",
+      "speakers": [
+        {
+          "name": "Kate Fleeger",
+          "rank": "Col",
+          "role": "Program Manager, H-53 Helicopters Program"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "11:45 AM",
+      "end_time": "12:25 PM",
+      "stage": "Acquisitions Stage",
+      "track": "Acquisitions Stage",
+      "format": "Session",
+      "title": "PM Combat Support Systems Overview",
+      "speakers": [
+        {
+          "name": "Paul Gillikin",
+          "rank": "Col",
+          "role": "Program Manager, Combat Support Systems"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "12:30 PM",
+      "end_time": "01:10 PM",
+      "stage": "Acquisitions Stage",
+      "track": "Acquisitions Stage",
+      "format": "Session",
+      "title": "Marine Air/Ground Task Force Command and Control Progression",
+      "speakers": [
+        {
+          "name": "Jeffrey Van Bourgondien",
+          "rank": "Col",
+          "role": "Program Manager, MAGTF C2"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "01:15 PM",
+      "end_time": "01:55 PM",
+      "stage": "Acquisitions Stage",
+      "track": "Acquisitions Stage",
+      "format": "Session",
+      "title": "Marine Corps Tactical Systems Support Activity Updates",
+      "speakers": [
+        {
+          "name": "Craig Clarkson",
+          "rank": "Col",
+          "role": "Commander, MCTSSA"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "02:45 PM",
+      "end_time": "03:25 PM",
+      "stage": "Acquisitions Stage",
+      "track": "Acquisitions Stage",
+      "format": "Session",
+      "title": "PMA-275 V-22",
+      "speakers": [
+        {
+          "name": "Robert Hurst",
+          "rank": "Col",
+          "role": "PMA-275 Program Manager, NAVAIR PEO(A)"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "09:25 AM",
+      "end_time": "09:55 AM",
+      "stage": "Warfighting Stage",
+      "track": "Warfighting",
+      "format": "",
+      "title": "The Marine Corps' Approach to Blast Overpressure",
+      "speakers": [
+        {
+          "name": "Sean Hoewing",
+          "rank": "BGen",
+          "role": "Director, Risk Management Directorate"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "10:35 AM",
+      "end_time": "11:05 AM",
+      "stage": "Warfighting Stage",
+      "track": "Industry",
+      "format": "Session",
+      "title": "Enabling the Future Marine: Advancing Capabilities through Collaboration",
+      "speakers": [
+        {
+          "name": "Michael Orr",
+          "rank": "",
+          "role": "Vice President, Government Relations, SNC"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "11:45 AM",
+      "end_time": "12:25 PM",
+      "stage": "Warfighting Stage",
+      "track": "Warfighting",
+      "format": "Session",
+      "title": "A Hitchhiker's Guide to RxR in the WEZ",
+      "speakers": [
+        {
+          "name": "Hayden Knudson",
+          "rank": "Capt",
+          "role": "Intelligence Officer"
+        },
+        {
+          "name": "Daniel O'Brien",
+          "rank": "Capt",
+          "role": "EWS Student, EWS/MCU"
+        },
+        {
+          "name": "Patrick Riley",
+          "rank": "Capt",
+          "role": "Expeditionary Warfare School Student"
+        },
+        {
+          "name": "Aubrey Sapp",
+          "rank": "Capt",
+          "role": "Student, Expeditionary Warfare School"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "01:00 PM",
+      "end_time": "01:40 PM",
+      "stage": "Warfighting Stage",
+      "track": "Warfighting",
+      "format": "Session",
+      "title": "Autonomy/Collaborative Autonomy/Autonomy Afloat",
+      "speakers": [
+        {
+          "name": "Kenneth Jones",
+          "rank": "Col",
+          "role": "Division Director, Science & Technology, Marine Corps Warfighting Laboratory"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "01:45 PM",
+      "end_time": "02:15 PM",
+      "stage": "Warfighting Stage",
+      "track": "Industry",
+      "format": "Session",
+      "title": "Force Multiplied: Integrated Solutions for the Modern Marine",
+      "speakers": [
+        {
+          "name": "Matthew L. Klunder",
+          "rank": "",
+          "role": "Vice President, USN/USMC Accounts and DARPA & DOD Laboratories, L3Harris Technologies"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "02:20 PM",
+      "end_time": "03:00 PM",
+      "stage": "Warfighting Stage",
+      "track": "Warfighting",
+      "format": "Session",
+      "title": "Distributed Aviation Operations",
+      "speakers": [
+        {
+          "name": "Marianne Carlson",
+          "rank": "LtCol",
+          "role": "Aviation Vision and Strategy Planner, Headquarters Marine Corps Aviation"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "09:35 AM",
+      "end_time": "10:15 AM",
+      "stage": "Marine Zone Stage",
+      "track": "Marine Zone",
+      "format": "Session",
+      "title": "The Neller Center: How Next Generation Wargaming Drives Force Design",
+      "speakers": [
+        {
+          "name": "Charles Anklam III",
+          "rank": "Col",
+          "role": "Director, Wargaming Division, Marine Corps Warfighting Laboratory"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "10:45 AM",
+      "end_time": "11:25 AM",
+      "stage": "Marine Zone Stage",
+      "track": "Marine Zone",
+      "format": "Session",
+      "title": "Spiritual Armament and the Cost of Victory",
+      "speakers": [
+        {
+          "name": "Carey Cash",
+          "rank": "Chaplain",
+          "role": "Chaplain of the Marine Corps, HQMC REL"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "12:00 PM",
+      "end_time": "12:40 PM",
+      "stage": "Marine Zone Stage",
+      "track": "Marine Zone",
+      "format": "",
+      "title": "AI Learning in the Boardroom",
+      "speakers": [
+        {
+          "name": "Fridrik Fridriksson",
+          "rank": "BGen",
+          "role": "Director, Manpower Management Division, Manpower and Reserve Affairs"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "01:10 PM",
+      "end_time": "01:50 PM",
+      "stage": "Marine Zone Stage",
+      "track": "Marine Zone",
+      "format": "Session",
+      "title": "Wingmen of the Future: Uncrewed and Autonomous",
+      "speakers": [
+        {
+          "name": "Michael Zbonack",
+          "rank": "Maj",
+          "role": "Future Concepts UAS, Headquarters Marine Corps Aviation, Cunningham Group"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "02:40 PM",
+      "end_time": "03:20 PM",
+      "stage": "Marine Zone Stage",
+      "track": "Marine Zone",
+      "format": "Session",
+      "title": "Ground Combat Element UAS/C-UAS Symposium Out brief",
+      "speakers": [
+        {
+          "name": "Erick Clark",
+          "rank": "Col",
+          "role": "Branch Head Future Operations, Plans, Policies, and Operations"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "09:30 AM",
+      "end_time": "10:15 AM",
+      "stage": "Scuttlebutt Podcast",
+      "track": "Scuttlebutt Podcast",
+      "format": "Session",
+      "title": "Project Dynamis: Accelerating AI-Powered Decision Advantage",
+      "speakers": [
+        {
+          "name": "Arlon Smith",
+          "rank": "Col",
+          "role": "Director, Project Dynamis"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "11:00 AM",
+      "end_time": "11:45 AM",
+      "stage": "Scuttlebutt Podcast",
+      "track": "Scuttlebutt Podcast",
+      "format": "Session",
+      "title": "USMC and the use of Artificial Intelligence Predictive Demand Planning in a Contested Information Environment",
+      "speakers": [
+        {
+          "name": "Changa Ngwenya",
+          "rank": "Capt",
+          "role": "EWS Student, USMC"
+        },
+        {
+          "name": "Nicholas Riggs",
+          "rank": "Capt",
+          "role": "EWS Student"
+        },
+        {
+          "name": "Dominick Tranfaglia",
+          "rank": "Capt",
+          "role": "Student, Expeditionary Warfare School, USMC MCU"
+        },
+        {
+          "name": "Tim Wingert",
+          "rank": "Capt",
+          "role": "Logistics Officer"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "01:30 PM",
+      "end_time": "02:15 PM",
+      "stage": "Scuttlebutt Podcast",
+      "track": "Scuttlebutt Podcast",
+      "format": "Session",
+      "title": "Closing Kill Chains",
+      "speakers": [
+        {
+          "name": "Michael McCarthy",
+          "rank": "Col",
+          "role": "Aviation Expeditionary Enablers Branch Head, Headquarters Marine Corps, Department of Aviation"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "02:30 PM",
+      "end_time": "03:10 PM",
+      "stage": "Scuttlebutt Podcast",
+      "track": "Scuttlebutt Podcast",
+      "format": "",
+      "title": "PM Intel & Cyberspace Operations",
+      "speakers": [
+        {
+          "name": "Jay Proctor",
+          "rank": "Mr.",
+          "role": "Program Manager Intelligence and Cyberspace Operations (ICO)"
+        }
+      ]
+    },
+    {
+      "day": "April 29",
+      "start_time": "09:45 AM",
+      "end_time": "10:15 AM",
+      "stage": "Drone Stage",
+      "track": "Drone Stage",
+      "format": "Session",
+      "title": "Industry Drone Demo",
+      "speakers": []
+    },
+    {
+      "day": "April 29",
+      "start_time": "10:40 AM",
+      "end_time": "10:55 AM",
+      "stage": "Drone Stage",
+      "track": "Drone Stage",
+      "format": "Session",
+      "title": "Marine Corps Attack Drone Team Demo",
+      "speakers": []
+    },
+    {
+      "day": "April 29",
+      "start_time": "11:15 AM",
+      "end_time": "11:30 AM",
+      "stage": "Drone Stage",
+      "track": "Drone Stage",
+      "format": "Session",
+      "title": "Marine Corps Attack Drone Team Demo",
+      "speakers": []
+    },
+    {
+      "day": "April 29",
+      "start_time": "12:30 PM",
+      "end_time": "12:45 PM",
+      "stage": "Drone Stage",
+      "track": "Drone Stage",
+      "format": "Session",
+      "title": "Marine Corps Attack Drone Team Demo",
+      "speakers": []
+    },
+    {
+      "day": "April 29",
+      "start_time": "02:25 PM",
+      "end_time": "02:55 PM",
+      "stage": "Drone Stage",
+      "track": "Drone Stage",
+      "format": "Session",
+      "title": "Industry Drone Demo",
+      "speakers": []
+    },
+    {
+      "day": "April 29",
+      "start_time": "03:00 PM",
+      "end_time": "03:15 PM",
+      "stage": "Drone Stage",
+      "track": "Drone Stage",
+      "format": "Session",
+      "title": "Marine Corps Attack Drone Team Demo",
+      "speakers": []
+    },
+    {
+      "day": "April 30",
+      "start_time": "09:00 AM",
+      "end_time": "02:30 PM",
+      "stage": "Marine Zone Stage",
+      "track": "Special Events",
+      "format": "",
+      "title": "Education & Employment Fair",
+      "speakers": []
+    },
+    {
+      "day": "April 30",
+      "start_time": "09:00 AM",
+      "end_time": "03:00 PM",
+      "stage": "101 & 102 A",
+      "track": "Special Events",
+      "format": "",
+      "title": "Logistics Command Artificial Intelligence Symposium",
+      "speakers": []
+    },
+    {
+      "day": "April 30",
+      "start_time": "10:00 AM",
+      "end_time": "12:00 PM",
+      "stage": "Marine Zone Stage",
+      "track": "Special Events",
+      "format": "",
+      "title": "Military Spouse Summit",
+      "speakers": [
+        {
+          "name": "Francisco Badiola",
+          "rank": "",
+          "role": "Chief of Staff, MR Business and Support Services"
+        },
+        {
+          "name": "William Bowers",
+          "rank": "LtGen",
+          "role": "Deputy Commandant for Manpower and Reserve Affairs"
+        },
+        {
+          "name": "Gregory Goldstein",
+          "rank": "",
+          "role": "Director, Marine and Family Programs Division, HQMC"
+        },
+        {
+          "name": "Jennifer Goodale",
+          "rank": "",
+          "role": "Director of Government Relations for Veteran and Retired Affairs, MOAA"
+        },
+        {
+          "name": "Stephen B. Simmons",
+          "rank": "",
+          "role": "Deputy Assistant Secretary of War, Military Community and Family Policy"
+        },
+        {
+          "name": "Trish Smith",
+          "rank": "Mrs.",
+          "role": "Spouse of the 39th Commandant"
+        },
+        {
+          "name": "Guido F. Valdes",
+          "rank": "Rear Adm.",
+          "role": "Medical Officer of the Marine Corps"
+        }
       ]
     },
     {
       "day": "April 30",
-      "start_time": "9:15 AM",
-      "end_time": "",
+      "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
       "stage": "Main Briefing Center",
+      "track": "Special Events",
+      "format": "",
+      "title": "Semper Fidelis Reception & Closing Ceremony",
+      "speakers": []
+    },
+    {
+      "day": "April 30",
+      "start_time": "09:15 AM",
+      "end_time": "10:15 AM",
+      "stage": "Main Briefing Center",
+      "track": "Main Briefing Center",
+      "format": "Session",
+      "title": "Ground Systems Enterprise (GSE) Senior Leader Summit: Forging the Future Force for the Next 250 Years",
+      "speakers": [
+        {
+          "name": "Scott Beatty",
+          "rank": "Col",
+          "role": "Director, Sustainment Branch, HQMC Installations and Logistics"
+        },
+        {
+          "name": "Timothy Brady",
+          "rank": "BGen",
+          "role": "Director, Capabilities Development Directorate, Marine Corps Combat Development Command"
+        },
+        {
+          "name": "Erick Clark",
+          "rank": "Col",
+          "role": "Branch Head Future Operations, Plans, Policies, and Operations"
+        },
+        {
+          "name": "Jason Morris",
+          "rank": "MajGen",
+          "role": "Director of Operations, Plans Policies, and Operations, HQMC"
+        },
+        {
+          "name": "Michael Nakonieczny",
+          "rank": "BGen",
+          "role": "Deputy Commanding General, I Marine Expeditionary Force"
+        }
+      ]
+    },
+    {
+      "day": "April 30",
+      "start_time": "10:30 AM",
+      "end_time": "11:30 AM",
+      "stage": "Main Briefing Center",
+      "track": "Main Briefing Center",
+      "format": "Session",
+      "title": "State of the United States Navy",
+      "speakers": [
+        {
+          "name": "Daryl Caudle",
+          "rank": "Adm.",
+          "role": "Chief of Naval Operations"
+        }
+      ]
+    },
+    {
+      "day": "April 30",
+      "start_time": "11:30 AM",
+      "end_time": "12:30 PM",
+      "stage": "Main Briefing Center",
+      "track": "Main Briefing Center",
+      "format": "Session",
+      "title": "Portfolio Acquisition Executive - Marine Corps",
+      "speakers": [
+        {
+          "name": "Eric Austin",
+          "rank": "LtGen",
+          "role": "Deputy Commandant Combat Development and Integration, HQMC"
+        },
+        {
+          "name": "Stephen Bowdren",
+          "rank": "CIV",
+          "role": "Program Executive Officer, PEO LS"
+        },
+        {
+          "name": "Tamara Campbell",
+          "rank": "BGen",
+          "role": "Commander, MARCORSYSCOM / Deputy PAE Marine Corps"
+        },
+        {
+          "name": "David Walsh",
+          "rank": "MajGen",
+          "role": "Program Executive Officer Air, Anti-Submarine Warfare, Assault, and Special Mission Programs"
+        }
+      ]
+    },
+    {
+      "day": "April 30",
+      "start_time": "01:00 PM",
+      "end_time": "02:00 PM",
+      "stage": "Main Briefing Center",
+      "track": "Main Briefing Center",
+      "format": "Session",
       "title": "State of the United States Marine Corps",
       "speakers": [
-        "Daryl L. Caudle",
-        "Eric E. Austin",
-        "David C. Walsh",
-        "Tamara L. Campbell",
-        "Steven Bowdren",
-        "Joshua Nasca",
-        "Jason L. Morris"
-      ],
-      "notes": "Caudle = Adm., Chief of Naval Operations; Austin = Lt. Gen., CG Marine Corps Combat Development Command / DC CD&I; Walsh = Maj. Gen., Deputy Director PAE-MC; Campbell = Brig. Gen., Commander MCSC; Bowdren = SES, Executive Deputy Director PAE-MC; Nasca = Col., Director Operations Analysis Directorate CD&I; Morris = Director of Operations, Plans, Policies and Operations. Date confirmed via DVIDS.",
-      "sources": [
-        "https://www.dvidshub.net/video/1004726/modern-day-marine-2026-state-united-states-marine-corps"
+        {
+          "name": "Eric M. Smith",
+          "rank": "Gen",
+          "role": "Commandant of the Marine Corps, USMC"
+        }
       ]
     },
     {
       "day": "April 30",
-      "start_time": "9:15 AM",
-      "end_time": "",
-      "stage": "Ground Systems Enterprise Summit",
-      "title": "Ground Systems Enterprise Senior Leader Summit",
-      "speakers": [],
-      "notes": "Two-day summit bringing Service leaders face-to-face with Fleet Marines and industry innovators around development and procurement of ground combat systems. Exact start/end and individual speakers not confirmed in available public records.",
-      "sources": [
-        "https://marinemilitaryexpos.com/show-schedule-info/ (Google index snippet)"
-      ]
-    },
-    {
-      "day": "April 30",
-      "start_time": "1:00 PM",
-      "end_time": "5:00 PM",
-      "stage": "Logistics Command AI Forum",
-      "title": "Logistics Command Artificial Intelligence Forum",
-      "speakers": [],
-      "notes": "MARCORLOGCOM hosts forum bringing together leaders from DoW, industry, and academia to exchange advanced analytic concepts with military application. Individual speakers not confirmed in available public records.",
-      "sources": [
-        "https://marinemilitaryexpos.com/show-schedule-info/ (Google index snippet)",
-        "https://www.marines.mil/News/Messages/Messages-Display/Article/4444902/modern-day-marine-2026-artificial-intelligence-forum-hackathon/"
-      ]
-    },
-    {
-      "day": "April 30",
-      "start_time": "9:25 AM",
-      "end_time": "",
-      "stage": "Warfighting Stage",
-      "title": "Warfighting Pavilion Sessions – Day 3",
-      "speakers": [],
-      "notes": "Force design, experimentation, and capabilities integration discussions.",
-      "sources": [
-        "https://marinemilitaryexpos.com/show-schedule-info/ (Google index snippet)"
-      ]
-    },
-    {
-      "day": "April 30",
-      "start_time": "3:30 PM",
-      "end_time": "",
-      "stage": "Main Briefing Center",
-      "title": "Closing Ceremony",
+      "start_time": "09:30 AM",
+      "end_time": "10:10 AM",
+      "stage": "Acquisitions Stage",
+      "track": "Acquisitions Stage",
+      "format": "Session",
+      "title": "Opening Remarks Day 3",
       "speakers": [
-        "Matthew Tracy"
-      ],
-      "notes": "Tracy = President, Marine Corps University. Conducted closing ceremony. Date confirmed via DVIDS.",
-      "sources": [
-        "https://www.dvidshub.net/video/1004743/modern-day-marine-2026-closing-ceremony"
+        {
+          "name": "Stephen Bowdren",
+          "rank": "CIV",
+          "role": "Program Executive Officer, PEO LS"
+        }
       ]
+    },
+    {
+      "day": "April 30",
+      "start_time": "10:15 AM",
+      "end_time": "10:55 AM",
+      "stage": "Acquisitions Stage",
+      "track": "Acquisitions Stage",
+      "format": "Session",
+      "title": "PM Advanced Amphibious Assault: ACV Family of Vehicles",
+      "speakers": [
+        {
+          "name": "Christopher Melkonian",
+          "rank": "CIV",
+          "role": "Program Manager, Advanced Amphibious Assault"
+        }
+      ]
+    },
+    {
+      "day": "April 30",
+      "start_time": "11:00 AM",
+      "end_time": "11:40 AM",
+      "stage": "Acquisitions Stage",
+      "track": "Acquisitions Stage",
+      "format": "Session",
+      "title": "PM Light Armored Vehicles Overview",
+      "speakers": [
+        {
+          "name": "Christopher Stephenson",
+          "rank": "Col",
+          "role": "Product Manager, Vehicle Systems"
+        }
+      ]
+    },
+    {
+      "day": "April 30",
+      "start_time": "11:45 AM",
+      "end_time": "12:25 PM",
+      "stage": "Acquisitions Stage",
+      "track": "Acquisitions Stage",
+      "format": "Session",
+      "title": "PM Wargaming Capability Overview",
+      "speakers": [
+        {
+          "name": "Joseph Taylor",
+          "rank": "LtCol",
+          "role": "Program Manager, Wargaming"
+        }
+      ]
+    },
+    {
+      "day": "April 30",
+      "start_time": "12:30 PM",
+      "end_time": "01:10 PM",
+      "stage": "Acquisitions Stage",
+      "track": "Acquisitions Stage",
+      "format": "Session",
+      "title": "PMA-276 USMC Light/Attack Helicopter",
+      "speakers": [
+        {
+          "name": "Jason Duke",
+          "rank": "Col",
+          "role": "PMA-276 Program Manager"
+        }
+      ]
+    },
+    {
+      "day": "April 30",
+      "start_time": "10:30 AM",
+      "end_time": "11:10 AM",
+      "stage": "Warfighting Stage",
+      "track": "Warfighting",
+      "format": "Session",
+      "title": "Experiments Division Update: How 2025's milestones shaped tomorrow's experiments to improve littoral mobility, C2, and survivability",
+      "speakers": [
+        {
+          "name": "Dustin Scott",
+          "rank": "LtCol",
+          "role": "Concept Development Team 3 Lead, Experiment Division, Marine Corps Warfighting Laboratory"
+        }
+      ]
+    },
+    {
+      "day": "April 30",
+      "start_time": "11:40 AM",
+      "end_time": "12:20 PM",
+      "stage": "Warfighting Stage",
+      "track": "Warfighting",
+      "format": "Session",
+      "title": "Marine Corps Attack Drone Team: Accelerating Lethality Through FPV Innovation",
+      "speakers": [
+        {
+          "name": "Scott Cuomo",
+          "rank": "Col",
+          "role": "Commanding Officer, Weapons Training Battalion"
+        }
+      ]
+    },
+    {
+      "day": "April 30",
+      "start_time": "12:30 PM",
+      "end_time": "12:45 PM",
+      "stage": "Warfighting Stage",
+      "track": "Warfighting",
+      "format": "",
+      "title": "LOGOM Artificial Intelligence Hackathon Awards Presentation",
+      "speakers": []
+    },
+    {
+      "day": "April 30",
+      "start_time": "09:30 AM",
+      "end_time": "10:10 AM",
+      "stage": "Scuttlebutt Podcast",
+      "track": "Scuttlebutt Podcast",
+      "format": "Session",
+      "title": "PM Expeditionary Radars",
+      "speakers": [
+        {
+          "name": "Barbara Gault",
+          "rank": "Ms.",
+          "role": "Expeditionary Radars Program Manager, USMC"
+        }
+      ]
+    },
+    {
+      "day": "April 30",
+      "start_time": "10:30 AM",
+      "end_time": "11:15 AM",
+      "stage": "Scuttlebutt Podcast",
+      "track": "Scuttlebutt Podcast",
+      "format": "Session",
+      "title": "Leading Forward: The Evolution of Leadership",
+      "speakers": [
+        {
+          "name": "Jacob Reiff",
+          "rank": "SgtMaj",
+          "role": "Sergeant Major, Manpower and Reserve Affairs"
+        },
+        {
+          "name": "Carlos Ruiz",
+          "rank": "SgtMaj",
+          "role": "Sergeant Major of the Marine Corps"
+        }
+      ]
+    },
+    {
+      "day": "April 30",
+      "start_time": "09:15 AM",
+      "end_time": "09:30 AM",
+      "stage": "Drone Stage",
+      "track": "Drone Stage",
+      "format": "Session",
+      "title": "Marine Corps Attack Drone Team Demo",
+      "speakers": []
+    },
+    {
+      "day": "April 30",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "stage": "Drone Stage",
+      "track": "Drone Stage",
+      "format": "Session",
+      "title": "Industry Drone Demo (PDW Attritable Multirotor)",
+      "speakers": []
+    },
+    {
+      "day": "April 30",
+      "start_time": "10:45 AM",
+      "end_time": "11:00 AM",
+      "stage": "Drone Stage",
+      "track": "Drone Stage",
+      "format": "Session",
+      "title": "Marine Corps Attack Drone Team Demo",
+      "speakers": []
     }
-  ],
-  "speakers_meta": {
-    "Hung Cao": {
-      "name": "Hung Cao",
-      "role": "Acting Secretary of the Navy",
-      "organization": "Department of the Navy",
-      "bio": "Acting Secretary of the Navy, gave keynote address at MDM 2026 Opening on April 28."
-    },
-    "Carlos A. Ruiz": {
-      "name": "Carlos A. Ruiz",
-      "role": "20th Sergeant Major of the Marine Corps",
-      "organization": "HQMC",
-      "bio": ""
-    },
-    "Jacob M. Reiff": {
-      "name": "Jacob M. Reiff",
-      "role": "Sergeant Major, Manpower and Reserve Affairs",
-      "organization": "HQMC",
-      "bio": ""
-    },
-    "Ryan A. Gnecco": {
-      "name": "Ryan A. Gnecco",
-      "role": "Sergeant Major, II Marine Expeditionary Force",
-      "organization": "II MEF",
-      "bio": ""
-    },
-    "Daniel L. Krause": {
-      "name": "Daniel L. Krause",
-      "role": "Senior Enlisted Advisor to the Sergeant Major of the Marine Corps",
-      "organization": "HQMC",
-      "bio": ""
-    },
-    "Richard Rusnok": {
-      "name": "Richard Rusnok",
-      "role": "Cunningham Group Branch Head, Deputy Commandant for Aviation",
-      "organization": "HQMC Aviation",
-      "bio": ""
-    },
-    "Robert Finneran": {
-      "name": "Robert Finneran",
-      "role": "Assistant Deputy Commandant for Aviation",
-      "organization": "HQMC Aviation",
-      "bio": ""
-    },
-    "Robert Cross": {
-      "name": "Robert Cross",
-      "role": "Deputy Commander for Systems Engineering and Acquisition Logistics",
-      "organization": "Marine Corps Systems Command (MCSC)",
-      "bio": ""
-    },
-    "Andrew Konicki": {
-      "name": "Andrew Konicki",
-      "role": "Program Manager for Ground Based Air Defense",
-      "organization": "Portfolio Acquisition Executive–Marine Corps (PAE-MC)",
-      "bio": ""
-    },
-    "Daryl L. Caudle": {
-      "name": "Daryl L. Caudle",
-      "role": "Chief of Naval Operations",
-      "organization": "U.S. Navy",
-      "bio": ""
-    },
-    "Eric E. Austin": {
-      "name": "Eric E. Austin",
-      "role": "Commanding General, Marine Corps Combat Development Command; Deputy Commandant, Combat Development & Integration",
-      "organization": "MCCDC / CD&I",
-      "bio": ""
-    },
-    "David C. Walsh": {
-      "name": "David C. Walsh",
-      "role": "Deputy Director, Portfolio Acquisition Executive – Marine Corps",
-      "organization": "PAE-MC",
-      "bio": ""
-    },
-    "Tamara L. Campbell": {
-      "name": "Tamara L. Campbell",
-      "role": "Commander, Marine Corps Systems Command",
-      "organization": "MCSC",
-      "bio": ""
-    },
-    "Steven Bowdren": {
-      "name": "Steven Bowdren",
-      "role": "Executive Deputy Director, Portfolio Acquisition Executive – Marine Corps",
-      "organization": "PAE-MC",
-      "bio": ""
-    },
-    "Joshua Nasca": {
-      "name": "Joshua Nasca",
-      "role": "Director, Operations Analysis Directorate, Combat Development and Integration",
-      "organization": "CD&I",
-      "bio": ""
-    },
-    "Jason L. Morris": {
-      "name": "Jason L. Morris",
-      "role": "Director of Operations, Plans, Policies and Operations",
-      "organization": "HQMC",
-      "bio": ""
-    },
-    "Matthew Tracy": {
-      "name": "Matthew Tracy",
-      "role": "President, Marine Corps University",
-      "organization": "Marine Corps University",
-      "bio": ""
-    }
-  }
+  ]
 }

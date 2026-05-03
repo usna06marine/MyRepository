@@ -1,27 +1,154 @@
 speaker_name,stage,day,session_title,start_time
-,Main Briefing Center,April 28,Opening Ceremony,9:00 AM
-Hung Cao,Main Briefing Center,April 28,Acting Secretary of the Navy Address,9:00 AM
-Carlos A. Ruiz,Main Briefing Center,April 28,Everyone Fights: A Senior Enlisted Perspective on Preparing Marines for the Next 250 Years,9:15 AM
-Jacob M. Reiff,Main Briefing Center,April 28,Everyone Fights: A Senior Enlisted Perspective on Preparing Marines for the Next 250 Years,9:15 AM
-Ryan A. Gnecco,Main Briefing Center,April 28,Everyone Fights: A Senior Enlisted Perspective on Preparing Marines for the Next 250 Years,9:15 AM
-Daniel L. Krause,Main Briefing Center,April 28,Everyone Fights: A Senior Enlisted Perspective on Preparing Marines for the Next 250 Years,9:15 AM
-,Drone Zone,April 28,Drone Zone Demonstrations,9:00 AM
-,GCE UAS/C-UAS Symposium,April 28,GCE UAS/C-UAS Symposium,8:30 AM
-,OBJ 1 Wargaming,April 28,OBJ 1 Wargaming Sessions,9:30 AM
-Richard Rusnok,Main Briefing Center,April 29,Aviation Modernization Panel,9:15 AM
-Robert Finneran,Main Briefing Center,April 29,Aviation Modernization Panel,9:15 AM
-Robert Cross,Acquisitions Stage,April 29,Acquisition Logistics Briefing,9:45 AM
-Andrew Konicki,GCE UAS/C-UAS Symposium,April 29,Counter-UAS / Ground Based Air Defense Briefing,9:15 AM
-,Marine Zone Stage,April 29,Marine Zone Sessions – Day 2,9:35 AM
-,Warfighting Stage,April 29,Warfighting Pavilion Sessions – Day 2,9:25 AM
-Daryl L. Caudle,Main Briefing Center,April 30,State of the United States Marine Corps,9:15 AM
-Eric E. Austin,Main Briefing Center,April 30,State of the United States Marine Corps,9:15 AM
-David C. Walsh,Main Briefing Center,April 30,State of the United States Marine Corps,9:15 AM
-Tamara L. Campbell,Main Briefing Center,April 30,State of the United States Marine Corps,9:15 AM
-Steven Bowdren,Main Briefing Center,April 30,State of the United States Marine Corps,9:15 AM
-Joshua Nasca,Main Briefing Center,April 30,State of the United States Marine Corps,9:15 AM
-Jason L. Morris,Main Briefing Center,April 30,State of the United States Marine Corps,9:15 AM
-,Ground Systems Enterprise Summit,April 30,Ground Systems Enterprise Senior Leader Summit,9:15 AM
-,Logistics Command AI Forum,April 30,Logistics Command Artificial Intelligence Forum,1:00 PM
-,Warfighting Stage,April 30,Warfighting Pavilion Sessions – Day 3,9:25 AM
-Matthew Tracy,Main Briefing Center,April 30,Closing Ceremony,3:30 PM
+,Conference Rooms (TBD),April 28,GCE UAS/C-UAS Symposium,09:00 AM
+,101 & 102 A,April 28,Logistics Command Artificial Intelligence Symposium,09:00 AM
+,Main Briefing Center,April 28,Opening Ceremony,09:00 AM
+,Warfighting Stage,April 28,Warfighting Reception,04:00 PM
+Ryan Gnecco,Main Briefing Center,April 28,Everyone Fights: A Senior Enlisted Perspective on Preparing Marines for the Next 250 Years,09:30 AM
+Daniel L. Krause,Main Briefing Center,April 28,Everyone Fights: A Senior Enlisted Perspective on Preparing Marines for the Next 250 Years,09:30 AM
+Anthony Loftus,Main Briefing Center,April 28,Everyone Fights: A Senior Enlisted Perspective on Preparing Marines for the Next 250 Years,09:30 AM
+Jacob Reiff,Main Briefing Center,April 28,Everyone Fights: A Senior Enlisted Perspective on Preparing Marines for the Next 250 Years,09:30 AM
+Carlos Ruiz,Main Briefing Center,April 28,Everyone Fights: A Senior Enlisted Perspective on Preparing Marines for the Next 250 Years,09:30 AM
+Erick Clark,Main Briefing Center,April 28,Ground Combat Element 2040: Technological Dominance Through a Marine-Centric Approach,11:00 AM
+Kyle Ellison,Main Briefing Center,April 28,Ground Combat Element 2040: Technological Dominance Through a Marine-Centric Approach,11:00 AM
+John Jarrard,Main Briefing Center,April 28,Ground Combat Element 2040: Technological Dominance Through a Marine-Centric Approach,11:00 AM
+Jason Morris,Main Briefing Center,April 28,Ground Combat Element 2040: Technological Dominance Through a Marine-Centric Approach,11:00 AM
+Farrell Sullivan,Main Briefing Center,April 28,Ground Combat Element 2040: Technological Dominance Through a Marine-Centric Approach,11:00 AM
+Shon Brodie,Main Briefing Center,April 28,Maritime Prepositioning for the 21st Century,12:30 PM
+Stephen Sklenka,Main Briefing Center,April 28,Maritime Prepositioning for the 21st Century,12:30 PM
+Michael Brooks,Main Briefing Center,April 28,Preparing Marines for the All-Domain Fight through Training and Education,02:00 PM
+Mark H. Clingan,Main Briefing Center,April 28,Preparing Marines for the All-Domain Fight through Training and Education,02:00 PM
+Benjamin Watson,Main Briefing Center,April 28,Preparing Marines for the All-Domain Fight through Training and Education,02:00 PM
+Hung Cao,Main Briefing Center,April 28,Acting Secretary of the Navy Address,03:10 PM
+David Walsh,Acquisitions Stage,April 28,General's Opening Remarks from PEO(A),09:30 AM
+Scott Shadforth,Acquisitions Stage,April 28,XMA-ADT Expeditionary Maritime Aviation Advanced Development Team,10:15 AM
+Andrew Konicki,Acquisitions Stage,April 28,PM Ground Based Air Defense: USMC Approach to Fielding Counter-Air Capabilities,11:00 AM
+Gregg Skinner,Acquisitions Stage,April 28,PMA-263 Small Tactical Unmanned Air Systems Overview,11:45 AM
+David Bain,Acquisitions Stage,April 28,Transforming Training with Cutting-Edge Capabilities,12:30 PM
+Leigh Irwin,Acquisitions Stage,April 28,PMA-266 Multi-Mission Tactical Unmanned Air Systems Overview,01:05 PM
+Adam Boas,Acquisitions Stage,April 28,Model-Based Systems Engineering: Accelerating system design through model-based methods,01:40 PM
+Grant Clyne,Acquisitions Stage,April 28,Model-Based Systems Engineering: Accelerating system design through model-based methods,01:40 PM
+Jonathan G. Metcalf,Acquisitions Stage,April 28,PEO Digital,02:15 PM
+John Mithun,Acquisitions Stage,April 28,PM Tactical Communications and Electromagnetic Warfare Systems: Communications Modularity on the Battlefield,03:30 PM
+Joshua Freeland,Warfighting Stage,April 28,Capability Development and the New Joint Force Requirements Process,09:40 AM
+Ed Sullivan,Warfighting Stage,April 28,From Perception to Coordination: Advancing Edge-Based Warfighting for Marine Corps Operations,10:50 AM
+Wilson Prescott,Warfighting Stage,April 28,PULSE Check: An AI-Enabled Commander's Survey Tool,12:00 PM
+Samuel Sung,Warfighting Stage,April 28,PULSE Check: An AI-Enabled Commander's Survey Tool,12:00 PM
+Andrew Konicki,Warfighting Stage,April 28,Counter UAS: From Installations Defense to Organic Protection for the Distributed Forces,01:10 PM
+Joseph Radich,Warfighting Stage,April 28,Counter UAS: From Installations Defense to Organic Protection for the Distributed Forces,01:10 PM
+Jeremy Stover,Warfighting Stage,April 28,Counter UAS: From Installations Defense to Organic Protection for the Distributed Forces,01:10 PM
+Stephen Sklenka,Warfighting Stage,April 28,Essentials in Prevailing against a Peer Adversary,02:20 PM
+Morina Foster,Marine Zone Stage,April 28,"Operationalizing Wounded Warrior Regiment (WWR), Scalability, Flexibility",09:50 AM
+Brian Christmas,Marine Zone Stage,April 28,Analysis and Assessments Branch: Learning and Adapting at Speed,11:00 AM
+Joshua Arvizu,Marine Zone Stage,April 28,Buying at the Speed of War: Leveraging Commercial Technology to Gain the Advantage,12:10 PM
+Jarrett Cavanagh,Marine Zone Stage,April 28,Buying at the Speed of War: Leveraging Commercial Technology to Gain the Advantage,12:10 PM
+Eric Jones,Marine Zone Stage,April 28,Buying at the Speed of War: Leveraging Commercial Technology to Gain the Advantage,12:10 PM
+Spencer Miller,Marine Zone Stage,April 28,Buying at the Speed of War: Leveraging Commercial Technology to Gain the Advantage,12:10 PM
+Riley White,Marine Zone Stage,April 28,Buying at the Speed of War: Leveraging Commercial Technology to Gain the Advantage,12:10 PM
+S. Lee Meyer,Marine Zone Stage,April 28,Resourcing the Expeditionary Fleet,01:30 PM
+Brad Brimhall,Marine Zone Stage,April 28,Warrior Athlete Readiness & Resilience - A Marine Corps Total Fitness Approach,02:30 PM
+Bryan Bush,Scuttlebutt Podcast,April 28,The Reboot Project,10:00 AM
+Stephen Sklenka,Scuttlebutt Podcast,April 28,3-1-5 Framework: The Essentials in Prevailing Against a Peer Adversary,11:00 AM
+,Scuttlebutt Podcast,April 28,Autonomous Logistics: Resupplying the Future Fight,12:30 PM
+Carey Cash,Scuttlebutt Podcast,April 28,Character and Life Assimilation,01:30 PM
+Andrew Barcomb,Scuttlebutt Podcast,April 28,MCCS Connect: Modernization with Purpose,02:30 PM
+Ralph Lewter,Scuttlebutt Podcast,April 28,MCCS Connect: Modernization with Purpose,02:30 PM
+,Drone Stage,April 28,Industry Drone Demo (PDW Attritable Multirotor),10:15 AM
+,Drone Stage,April 28,Marine Corps Attack Drone Team Demo,11:15 AM
+,Drone Stage,April 28,Marine Corps Attack Drone Team Demo,12:05 PM
+,Drone Stage,April 28,Marine Corps Attack Drone Team Demo,12:45 PM
+,Drone Stage,April 28,Vector Dagger Demonstration,02:25 PM
+,Drone Stage,April 28,Marine Corps Attack Drone Team Demo,03:00 PM
+,Marriott Marquis,April 29,Congressional Breakfast,09:00 AM
+,Conference Rooms (TBD),April 29,GCE UAS/C-UAS Symposium,09:00 AM
+,101 & 102 A,April 29,Logistics Command Artificial Intelligence Symposium,09:00 AM
+,146A,April 29,Contracts Industry Day,01:00 PM
+,Marriott Marquis,April 29,Modern Day Marine Honors & Reception,06:30 PM
+Daniel Corbin,Main Briefing Center,April 29,Transforming USMC Procurement: Leading with Agility and Impact,09:15 AM
+Robert Cross,Main Briefing Center,April 29,Transforming USMC Procurement: Leading with Agility and Impact,09:15 AM
+Johany Deal,Main Briefing Center,April 29,Transforming USMC Procurement: Leading with Agility and Impact,09:15 AM
+Anthony Greco Jr.,Main Briefing Center,April 29,Transforming USMC Procurement: Leading with Agility and Impact,09:15 AM
+Eric Austin,Main Briefing Center,April 29,3.0 Marine Expeditionary Unit American Sovereignty Afloat – Driving Maintenance and Inventory,10:45 AM
+Jay Bargeron,Main Briefing Center,April 29,3.0 Marine Expeditionary Unit American Sovereignty Afloat – Driving Maintenance and Inventory,10:45 AM
+Shon Brodie,Main Briefing Center,April 29,3.0 Marine Expeditionary Unit American Sovereignty Afloat – Driving Maintenance and Inventory,10:45 AM
+Bobbi Shea,Main Briefing Center,April 29,3.0 Marine Expeditionary Unit American Sovereignty Afloat – Driving Maintenance and Inventory,10:45 AM
+John Skillman,Main Briefing Center,April 29,3.0 Marine Expeditionary Unit American Sovereignty Afloat – Driving Maintenance and Inventory,10:45 AM
+Mark A. Cunningham,Main Briefing Center,April 29,Next-Gen Combined Arms: Integrating Information Effects into Modern Operations,12:00 PM
+Jeffery A. Hurley,Main Briefing Center,April 29,Next-Gen Combined Arms: Integrating Information Effects into Modern Operations,12:00 PM
+Jay Matos,Main Briefing Center,April 29,Next-Gen Combined Arms: Integrating Information Effects into Modern Operations,12:00 PM
+Christopher A. Passerella,Main Briefing Center,April 29,Next-Gen Combined Arms: Integrating Information Effects into Modern Operations,12:00 PM
+Jessica R. Aich,Main Briefing Center,April 29,EDCOM: Leading the Revolution in Joint Education,01:05 PM
+Robert Barnhart,Main Briefing Center,April 29,EDCOM: Leading the Revolution in Joint Education,01:05 PM
+John Lehane,Main Briefing Center,April 29,EDCOM: Leading the Revolution in Joint Education,01:05 PM
+Matt Tracy,Main Briefing Center,April 29,EDCOM: Leading the Revolution in Joint Education,01:05 PM
+Leonard Anderson IV,Main Briefing Center,April 29,The Unfair Advantage: Mobilizing Marine Corps Power,02:10 PM
+Ryan Murata,Main Briefing Center,April 29,The Unfair Advantage: Mobilizing Marine Corps Power,02:10 PM
+Richard Rusnok,Main Briefing Center,April 29,"Ready Today, Unmatched Tomorrow: The Future of Marine Aviation",03:15 PM
+William Swan,Main Briefing Center,April 29,"Ready Today, Unmatched Tomorrow: The Future of Marine Aviation",03:15 PM
+Bradley Sams,Acquisitions Stage,April 29,PM Ground Weapons Systems: Forging Marine Corps Lethality,10:15 AM
+Kate Fleeger,Acquisitions Stage,April 29,PMA-261 Program Update,11:00 AM
+Paul Gillikin,Acquisitions Stage,April 29,PM Combat Support Systems Overview,11:45 AM
+Jeffrey Van Bourgondien,Acquisitions Stage,April 29,Marine Air/Ground Task Force Command and Control Progression,12:30 PM
+Craig Clarkson,Acquisitions Stage,April 29,Marine Corps Tactical Systems Support Activity Updates,01:15 PM
+Robert Hurst,Acquisitions Stage,April 29,PMA-275 V-22,02:45 PM
+Sean Hoewing,Warfighting Stage,April 29,The Marine Corps' Approach to Blast Overpressure,09:25 AM
+Michael Orr,Warfighting Stage,April 29,Enabling the Future Marine: Advancing Capabilities through Collaboration,10:35 AM
+Hayden Knudson,Warfighting Stage,April 29,A Hitchhiker's Guide to RxR in the WEZ,11:45 AM
+Daniel O'Brien,Warfighting Stage,April 29,A Hitchhiker's Guide to RxR in the WEZ,11:45 AM
+Patrick Riley,Warfighting Stage,April 29,A Hitchhiker's Guide to RxR in the WEZ,11:45 AM
+Aubrey Sapp,Warfighting Stage,April 29,A Hitchhiker's Guide to RxR in the WEZ,11:45 AM
+Kenneth Jones,Warfighting Stage,April 29,Autonomy/Collaborative Autonomy/Autonomy Afloat,01:00 PM
+Matthew L. Klunder,Warfighting Stage,April 29,Force Multiplied: Integrated Solutions for the Modern Marine,01:45 PM
+Marianne Carlson,Warfighting Stage,April 29,Distributed Aviation Operations,02:20 PM
+Charles Anklam III,Marine Zone Stage,April 29,The Neller Center: How Next Generation Wargaming Drives Force Design,09:35 AM
+Carey Cash,Marine Zone Stage,April 29,Spiritual Armament and the Cost of Victory,10:45 AM
+Fridrik Fridriksson,Marine Zone Stage,April 29,AI Learning in the Boardroom,12:00 PM
+Michael Zbonack,Marine Zone Stage,April 29,Wingmen of the Future: Uncrewed and Autonomous,01:10 PM
+Erick Clark,Marine Zone Stage,April 29,Ground Combat Element UAS/C-UAS Symposium Out brief,02:40 PM
+Arlon Smith,Scuttlebutt Podcast,April 29,Project Dynamis: Accelerating AI-Powered Decision Advantage,09:30 AM
+Changa Ngwenya,Scuttlebutt Podcast,April 29,USMC and the use of Artificial Intelligence Predictive Demand Planning in a Contested Information Environment,11:00 AM
+Nicholas Riggs,Scuttlebutt Podcast,April 29,USMC and the use of Artificial Intelligence Predictive Demand Planning in a Contested Information Environment,11:00 AM
+Dominick Tranfaglia,Scuttlebutt Podcast,April 29,USMC and the use of Artificial Intelligence Predictive Demand Planning in a Contested Information Environment,11:00 AM
+Tim Wingert,Scuttlebutt Podcast,April 29,USMC and the use of Artificial Intelligence Predictive Demand Planning in a Contested Information Environment,11:00 AM
+Michael McCarthy,Scuttlebutt Podcast,April 29,Closing Kill Chains,01:30 PM
+Jay Proctor,Scuttlebutt Podcast,April 29,PM Intel & Cyberspace Operations,02:30 PM
+,Drone Stage,April 29,Industry Drone Demo,09:45 AM
+,Drone Stage,April 29,Marine Corps Attack Drone Team Demo,10:40 AM
+,Drone Stage,April 29,Marine Corps Attack Drone Team Demo,11:15 AM
+,Drone Stage,April 29,Marine Corps Attack Drone Team Demo,12:30 PM
+,Drone Stage,April 29,Industry Drone Demo,02:25 PM
+,Drone Stage,April 29,Marine Corps Attack Drone Team Demo,03:00 PM
+,Marine Zone Stage,April 30,Education & Employment Fair,09:00 AM
+,101 & 102 A,April 30,Logistics Command Artificial Intelligence Symposium,09:00 AM
+Francisco Badiola,Marine Zone Stage,April 30,Military Spouse Summit,10:00 AM
+William Bowers,Marine Zone Stage,April 30,Military Spouse Summit,10:00 AM
+Gregory Goldstein,Marine Zone Stage,April 30,Military Spouse Summit,10:00 AM
+Jennifer Goodale,Marine Zone Stage,April 30,Military Spouse Summit,10:00 AM
+Stephen B. Simmons,Marine Zone Stage,April 30,Military Spouse Summit,10:00 AM
+Trish Smith,Marine Zone Stage,April 30,Military Spouse Summit,10:00 AM
+Guido F. Valdes,Marine Zone Stage,April 30,Military Spouse Summit,10:00 AM
+,Main Briefing Center,April 30,Semper Fidelis Reception & Closing Ceremony,02:00 PM
+Scott Beatty,Main Briefing Center,April 30,Ground Systems Enterprise (GSE) Senior Leader Summit: Forging the Future Force for the Next 250 Years,09:15 AM
+Timothy Brady,Main Briefing Center,April 30,Ground Systems Enterprise (GSE) Senior Leader Summit: Forging the Future Force for the Next 250 Years,09:15 AM
+Erick Clark,Main Briefing Center,April 30,Ground Systems Enterprise (GSE) Senior Leader Summit: Forging the Future Force for the Next 250 Years,09:15 AM
+Jason Morris,Main Briefing Center,April 30,Ground Systems Enterprise (GSE) Senior Leader Summit: Forging the Future Force for the Next 250 Years,09:15 AM
+Michael Nakonieczny,Main Briefing Center,April 30,Ground Systems Enterprise (GSE) Senior Leader Summit: Forging the Future Force for the Next 250 Years,09:15 AM
+Daryl Caudle,Main Briefing Center,April 30,State of the United States Navy,10:30 AM
+Eric Austin,Main Briefing Center,April 30,Portfolio Acquisition Executive - Marine Corps,11:30 AM
+Stephen Bowdren,Main Briefing Center,April 30,Portfolio Acquisition Executive - Marine Corps,11:30 AM
+Tamara Campbell,Main Briefing Center,April 30,Portfolio Acquisition Executive - Marine Corps,11:30 AM
+David Walsh,Main Briefing Center,April 30,Portfolio Acquisition Executive - Marine Corps,11:30 AM
+Eric M. Smith,Main Briefing Center,April 30,State of the United States Marine Corps,01:00 PM
+Stephen Bowdren,Acquisitions Stage,April 30,Opening Remarks Day 3,09:30 AM
+Christopher Melkonian,Acquisitions Stage,April 30,PM Advanced Amphibious Assault: ACV Family of Vehicles,10:15 AM
+Christopher Stephenson,Acquisitions Stage,April 30,PM Light Armored Vehicles Overview,11:00 AM
+Joseph Taylor,Acquisitions Stage,April 30,PM Wargaming Capability Overview,11:45 AM
+Jason Duke,Acquisitions Stage,April 30,PMA-276 USMC Light/Attack Helicopter,12:30 PM
+Dustin Scott,Warfighting Stage,April 30,"Experiments Division Update: How 2025's milestones shaped tomorrow's experiments to improve littoral mobility, C2, and survivability",10:30 AM
+Scott Cuomo,Warfighting Stage,April 30,Marine Corps Attack Drone Team: Accelerating Lethality Through FPV Innovation,11:40 AM
+,Warfighting Stage,April 30,LOGOM Artificial Intelligence Hackathon Awards Presentation,12:30 PM
+Barbara Gault,Scuttlebutt Podcast,April 30,PM Expeditionary Radars,09:30 AM
+Jacob Reiff,Scuttlebutt Podcast,April 30,Leading Forward: The Evolution of Leadership,10:30 AM
+Carlos Ruiz,Scuttlebutt Podcast,April 30,Leading Forward: The Evolution of Leadership,10:30 AM
+,Drone Stage,April 30,Marine Corps Attack Drone Team Demo,09:15 AM
+,Drone Stage,April 30,Industry Drone Demo (PDW Attritable Multirotor),09:30 AM
+,Drone Stage,April 30,Marine Corps Attack Drone Team Demo,10:45 AM
